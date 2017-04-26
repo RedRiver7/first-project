@@ -1,0 +1,29 @@
+{
+  "name": "first_project",
+  "version": "0.0.1",
+  "description": "My first Node.Js project.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedRiver7/first-project.git"
+  },
+  "keywords": [
+    "keep_out",
+    "private"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedRiver7/first-project/issues"
+  },
+  "homepage": "https://github.com/RedRiver7/first-project#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "4.2.6"
+  }
+}
